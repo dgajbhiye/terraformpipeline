@@ -19,14 +19,14 @@ variable "instance_type" {
 }
 
 variable "aws_region" {
-  default = "us-east-1"
+  default = "ap-south-1"
 }
 
 variable "aws_access_key" {
-  default = "AKIA33H4STK4AP5N5MNV"
+  default = "AKIARATRWOTNLQGP2EX4"
 }
 variable "aws_secret_key" {
-  default = "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"
+  default = "Xj4eKk7L6T7wprllk2EABUCPq4vISykOGDAsIvAJ"
 }
 
 variable "iscreate" {
@@ -34,12 +34,12 @@ variable "iscreate" {
 }
 
 variable "sg_id" {
-  default = "sg-0e5ce8f7c67e33766"
+  default = "subnet-0f9aeac57aee4ef33"
 }
 
 variable "keyname" {
   default = "test"
 }
 variable "vpc_id" {
-   default = "vpc-0b9fe93cf03c80f08"
+   default = "vpc-0cbe41f6985de6307"
 }
