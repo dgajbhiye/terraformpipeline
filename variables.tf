@@ -1,5 +1,5 @@
 variable "region" {
-  default = "us-east-1"
+  default = "ap-south-1"
 }
 
 variable "tag" {
@@ -34,7 +34,7 @@ variable "iscreate" {
 }
 
 variable "sg_id" {
-  default = "subnet-0f9aeac57aee4ef33"
+  default = "sg-079aba0922e1e3812"
 }
 
 variable "keyname" {
