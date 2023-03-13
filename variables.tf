@@ -23,10 +23,10 @@ variable "aws_region" {
 }
 
 variable "aws_access_key" {
-  default = "AKIARATRWOTNLQGP2EX4"
+  default = "AKIARATRWOTNJ65BOISW"
 }
 variable "aws_secret_key" {
-  default = "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"
+  default = "/kkLps6DIK07tH9NItjz+b/P7aZQCIBMvqiJHeqt"
 }
 
 variable "iscreate" {
