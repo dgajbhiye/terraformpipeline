@@ -38,7 +38,7 @@ variable "sg_id" {
 }
 
 variable "keyname" {
-  default = "test"
+  default = "terraform"
 }
 variable "vpc_id" {
    default = "vpc-0cbe41f6985de6307"
